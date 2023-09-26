@@ -24,6 +24,10 @@ Make sure you have Python installed on your computer. Then, install the required
 pip install googletrans==3.1.0a0
 ```
 
+```bash
+pip install telebot
+```
+
 Step 3: Create the Python Script
 -------------------------------
 Now, you can create a Python script to handle the bot and translation functionality. Here's a simple example:
