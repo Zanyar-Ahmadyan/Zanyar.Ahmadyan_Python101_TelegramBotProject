@@ -21,7 +21,7 @@ Step 2: Install Python Libraries
 Make sure you have Python installed on your computer. Then, install the required libraries using pip:
 
 ```bash
-pip install pyTelegramBotAPI googletrans==4.0.0 tkinter
+pip install googletrans==3.1.0a0
 ```
 
 Step 3: Create the Python Script
